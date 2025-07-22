@@ -1,0 +1,121 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff;
+  color: #003f9c;
+}
+
+header {
+  background-color: #003f9c;
+  padding: 1rem;
+  color: white;
+  text-align: center;
+}
+
+.intro {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #003f9c;
+}
+
+.logo {
+  width: 400px;
+  max-width: 80%;
+  margin-bottom: 1rem;
+}
+
+.info {
+  font-size: 1.2rem;
+  color: #ffffff;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+main.provas {
+  padding: 2rem 1rem;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.prova {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.titulo-prova {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #003f9c;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.titulo-prova img {
+  width: 24px;
+  height: 24px;
+}
+
+.titulo-prova .genero {
+  width: 20px;
+  height: 20px;
+}
+
+.descricao {
+  font-size: 1rem;
+  color: #333;
+}
+
+.descricao1 {
+  font-weight: 500;
+  font-size: 1rem;
+  color: #003f9c;
+}
+
+.text_esquerda {
+  font-weight: 400;
+  font-size: 1rem;
+  color: #333;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: left;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+hr {
+  border: none;
+  height: 3px;
+  background-color: #fdd700;
+  margin: 2rem 0;
+}
+
+@media (max-width: 600px) {
+  .titulo-prova {
+    font-size: 1.2rem;
+  }
+
+  .info {
+    font-size: 1rem;
+  }
+
+  .descricao {
+    font-size: 0.9rem;
+  }
+}
+
+.pontos {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #003f9c;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}

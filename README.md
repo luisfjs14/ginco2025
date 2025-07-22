@@ -1,4 +1,4 @@
-## Sobre o Ginco 2025
+## Sobre a Ginco 2025
 
 O **Ginco 2025** é um evento abrangente que reúne participantes em diversas modalidades competitivas e recreativas. Ele foi projetado para promover o espírito esportivo, o conhecimento e a criatividade, além de incentivar a participação em desafios de solidariedade.
 
